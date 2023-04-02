@@ -1,0 +1,4 @@
+tailwind install 
+
+    install - {npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p} terminal
